@@ -59,4 +59,14 @@
         "to_ita_to_eng": "I rang the phone. Who says I'm an elephant? I'm from where?",
         "to_ita_to_rus": "я звонил в телефон что кто говорит до слона до да где пон да камело что что вам нужен что шоколад кон для кого кон для моего сына"
     }
+    "audio_12": {
+        "file_path": "telefon-02.wav",
+        "text": "у меня зазвонил телефон кто говорит слон откуда от верблюда что вам надо шоколад для кого для сына моего а много ли прислать да пудов это к пять или шесть больше ему не съесть он у меня еще маленький",
+        "source": "",
+        "to_rus": "а потом позвонил крокодил и со слезами просил мой милый хороший пришли мне калоши и мне и жене и татоше",
+        "to_eng": "And then the crocodile called and begged with tears, 'My dear, good one, send me the collar and me and the wife and the tattoos'."
+        "to_ita": "E poi chiamò il coccodrillo e con le lacrime chiese:  ⁇ Mio caro, buono, portami i colossi, e a me e alla moglie e a Tatoshe,",
+        "to_ita_to_eng": "And then he called the crocodile and with tears he asked my dear good one bring me the colossus and to me and to my wife and to Tatoe",
+        "to_ita_to_rus": "и потом назвал кокудрилло и с слезами в глазах и спросил к моему дорогому доброму принеси мне колоссы и мне и жене и татосе"
+    }
 }
