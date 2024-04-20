@@ -49,4 +49,14 @@
         "text": "а горошину отправили в кунсткамеру там она и лежит если только никто ее не украл знай что история эта истинная",
         "source": "https://www.miloliza.com/skazki-korotkie-na-noch-detyam-chitat"
     }
+    "audio_11": {
+        "file_path": "telefon-01.wav",
+        "text": "у меня зазвонил телефон кто говорит слон откуда от верблюда что вам надо шоколад для кого для сына моего а много ли прислать да пудов это к пять или шесть больше ему не съесть он у меня еще маленький",
+        "source": "",
+        "to_rus": "у меня зазвонил телефон кто говорит слон откуда от верблюда что вам надо шоколад для кого для сына моего а много ли прислать да пудов это к пять или шесть больше ему не съесть он у меня еще маленький",
+        "to_eng": "I've got a phone call. Who's calling? An elephant."
+        "to_ita": "⁇  Ho suonato il telefono.  ⁇  Chi dice?  ⁇  Elefante.  ⁇  Da dove?  ⁇  Da un cammello.  ⁇  Che vi serve?  ⁇  Cioccolato.  ⁇  Per chi?  ⁇  Per mio figlio.",
+        "to_ita_to_eng": "I rang the phone. Who says I'm an elephant? I'm from where?",
+        "to_ita_to_rus": "я звонил в телефон что кто говорит до слона до да где пон да камело что что вам нужен что шоколад кон для кого кон для моего сына"
+    }
 }
